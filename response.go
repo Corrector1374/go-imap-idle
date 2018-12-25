@@ -1,8 +1,8 @@
 package idle
 
 import (
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/responses"
+	"github.com/Corrector1374/go-imap"
+	"github.com/Corrector1374/go-imap/responses"
 )
 
 // An IDLE response.

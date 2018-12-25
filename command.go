@@ -1,7 +1,7 @@
 package idle
 
 import (
-	"github.com/emersion/go-imap"
+	"github.com/Corrector1374/go-imap"
 )
 
 // An IDLE command.
